@@ -1,5 +1,7 @@
 # Snake - WPF Snake Spiel
 
+![Snake](SnakeExample.PNG)
+
 Dies ist ein einfaches Snake-Spiel, das in WPF (Windows Presentation Foundation) entwickelt wurde. Das Spiel ermöglicht es dem Spieler, eine Schlange zu steuern und Punkte zu sammeln, indem er Früchte isst.
 
 ## Spielbeschreibung
